@@ -17,10 +17,18 @@
 .inner-carousel{
 	display:flex;
 	background:lightblue;
-	margin:0 20px;
+	border-radius:2rem;
+	width:1000px;
+	margin-left:-20px;
 }
 
 .carousel{
-	overflow:hidden;
 	cursor:grab;
+	background:pink;
+	margin:10% 20%;
+	height:auto;
+	width:auto;
+	padding:0px 20px;
+	border-radius:2rem;
+	overflow:hidden;
 }
